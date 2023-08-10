@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "3 en raya EXTREMO/1.0.0": {
+        "runtime": {
+          "3 en raya EXTREMO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3 en raya EXTREMO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

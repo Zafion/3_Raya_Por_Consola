@@ -1,0 +1,14 @@
+C:\Users\zafio\source\repos\3 en raya EXTREMO\bin\Debug\netcoreapp3.1\3 en raya EXTREMO.exe
+C:\Users\zafio\source\repos\3 en raya EXTREMO\bin\Debug\netcoreapp3.1\3 en raya EXTREMO.deps.json
+C:\Users\zafio\source\repos\3 en raya EXTREMO\bin\Debug\netcoreapp3.1\3 en raya EXTREMO.runtimeconfig.json
+C:\Users\zafio\source\repos\3 en raya EXTREMO\bin\Debug\netcoreapp3.1\3 en raya EXTREMO.runtimeconfig.dev.json
+C:\Users\zafio\source\repos\3 en raya EXTREMO\bin\Debug\netcoreapp3.1\3 en raya EXTREMO.dll
+C:\Users\zafio\source\repos\3 en raya EXTREMO\bin\Debug\netcoreapp3.1\3 en raya EXTREMO.pdb
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.csproj.AssemblyReference.cache
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.AssemblyInfoInputs.cache
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.AssemblyInfo.cs
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.csproj.CoreCompileInputs.cache
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.dll
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.pdb
+C:\Users\zafio\source\repos\3 en raya EXTREMO\obj\Debug\netcoreapp3.1\3 en raya EXTREMO.genruntimeconfig.cache
