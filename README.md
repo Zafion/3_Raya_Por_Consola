@@ -1,12 +1,12 @@
 # [![3_Raya_Por_Consola](https://github.com/Zafion/3_Raya_Por_Consola/blob/main/recursos/C%23_36.png)](https://github.com/Zafion/3_Raya_Por_Consola) 3_Raya_Por_Consola
 
-Desarrollado con C# usando el IDE Visual Studio 2019.
+Desarrollado con C# utilizando el IDE Visual Studio 2019.
 
-Ejercicio opcional realizado durante la formación del primer semestre del Ciclo Superior De Desarrollo De Aplicaciones Multiplataforma.
+Ejercicio opcional realizado durante el primer semestre del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 Corresponde a la asignatura de Programación.
 
-El ejercicio en si, es un tres en raya que se debe jugar a traves de la consola del sistema.
-Para diferenciarse del resto, le he dado un toque de juego de rol, añadiendo un argumento y la personalización de los nombres de los jugadores.
+El ejercicio en sí es un juego de tres en raya que se juega a través de la consola del sistema.
+Para hacerlo destacar, le he agregado un toque de juego de rol, incluyendo un argumento y la personalización de los nombres de los jugadores.
 
 </br>
 
